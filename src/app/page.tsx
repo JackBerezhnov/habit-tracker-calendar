@@ -2,6 +2,8 @@ import Calendar from "./components/calendar/Calendar";
 
 export default function Home() {
   return (
-    <Calendar />
+    <div className="flex items-center h-screen">
+      <Calendar />
+    </div>
   );
 }
