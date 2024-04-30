@@ -1,3 +1,8 @@
-.css-1wy8uaa-MuiButtonBase-root-MuiPickersDay-root {
+.css-1wy8uaa-MuiButtonBase-root-MuiPickersDay-root, .css-rhmlg1-MuiTypography-root-MuiDayCalendar-weekDayLabel, .css-1nkg345-MuiButtonBase-root-MuiIconButton-root-MuiPickersArrowSwitcher-button, .css-kg9q0s-MuiButtonBase-root-MuiIconButton-root-MuiPickersArrowSwitcher-button, .css-12mkn7b-MuiButtonBase-root-MuiIconButton-root-MuiPickersCalendarHeader-switchViewButton {
     color: #ffffff;
+}
+
+.css-23p0if-MuiButtonBase-root-MuiPickersDay-root:not(.Mui-selected) {
+    border: 1px solid rgb(255 255 255 / 60%);
+    color: #fff;
 }
