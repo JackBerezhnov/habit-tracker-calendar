@@ -6,3 +6,7 @@
     border: 1px solid rgb(255 255 255 / 60%);
     color: #fff;
 }
+
+.css-23p0if-MuiButtonBase-root-MuiPickersDay-root.Mui-selected, .css-1wy8uaa-MuiButtonBase-root-MuiPickersDay-root.Mui-selected, .css-1wy8uaa-MuiButtonBase-root-MuiPickersDay-root.Mui-selected:hover {
+    background-color: aquamarine;
+}
